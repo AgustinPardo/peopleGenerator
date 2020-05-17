@@ -1,6 +1,6 @@
 # peopleGenerator
 
-Generate random people data using.
+Generate random people data.
 
 Click on "Obtener" button to generate the data.
 
