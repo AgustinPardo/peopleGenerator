@@ -19,7 +19,7 @@
 
 function descargar() {
   var element = document.createElement('a');
-  element.setAttribute('href', 'data:text/plain;charset=utf-8,' + JSON.stringify(array_data));
+  element.setAttribute('href', 'data:/,' + JSON.stringify(array_data));
   element.setAttribute('download', "data.json");
   element.style.display = 'none';
   document.body.appendChild(element);
