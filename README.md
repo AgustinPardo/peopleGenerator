@@ -9,4 +9,4 @@ Click on "Descargar" button to donwload a json with the data.
 Use it Here:
 https://agustinpardo.github.io/peopleGenerator/
 
-The random data is fetch from [randomuser] API (https://randomuser.me/)
+The random data is fetch from [randomuser](https://randomuser.me/) API.
